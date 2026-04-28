@@ -10,7 +10,7 @@ This is a production-ready containerized version of the Express TypeScript Start
 ---
 
 ## Prerequisites
-* **Docker Desktop** (WSL2 backend recommended)
+* **Docker Desktop**
 * **Minikube**
 * **kubectl**
 
