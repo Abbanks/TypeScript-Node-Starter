@@ -39,7 +39,7 @@ kubectl create secret generic app-secrets \
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 Deploy the database and backend tiers using the provided manifests:
 
