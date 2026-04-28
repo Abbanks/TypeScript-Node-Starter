@@ -1,4 +1,4 @@
-# 3-Tier TypeScript Express Starter (K8s Edition)
+# 3-Tier TypeScript Node Starter (K8s Edition)
 
 This is a production-ready containerized version of the Express TypeScript Starter, deployed as a 3-tier architecture (Frontend/Assets, Node.js Backend, and MongoDB Database) on Kubernetes.
 
