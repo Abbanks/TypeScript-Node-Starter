@@ -50,3 +50,6 @@ kubectl apply -f database.yaml
 # Start Backend Tier
 kubectl apply -f backend.yaml
 ```
+
+![deployed-project](k8s_depolyed_project.png)
+![deployed-project1](kubernetes_deployed.png)
